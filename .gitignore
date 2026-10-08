@@ -1,0 +1,8 @@
+credentials.json
+token.json
+token_for_github.json
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
